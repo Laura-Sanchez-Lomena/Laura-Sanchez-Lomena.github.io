@@ -1,9 +1,0 @@
-.barra {
-	display: flex;
-	flex-direction: column;
-	flex-wrap: wrap-reverse;
-	justify-content: center;
-	align-items: flex-end;
-	align-content: stretch;
-
-}
