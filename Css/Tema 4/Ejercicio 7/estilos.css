@@ -1,0 +1,58 @@
+tr, td {
+    border: 1px solid black;
+}
+body{
+    background-color: rgb(238, 232, 232);
+}
+
+table{
+    border: 2px solid black;
+    background-image: url(./imagen/logo_insti.jpeg);
+}
+
+#contenido{
+    margin: auto 0;
+    width: 75%;
+}
+
+
+.GBD{
+    background-color:  coral;
+    opacity: 0.75;
+}
+
+.REDES{
+    background-color: cornflowerblue;
+    opacity: 0.75;
+}
+
+.LMSGI{
+    background-color: rgb(226, 189, 226);
+    opacity: 0.75;
+}
+
+.FOL{
+    background-color: yellow;
+    opacity: 0.75;
+}
+
+.SISTEMAS{
+    background-color: rgb(177, 97, 113);
+    opacity: 0.75;
+}
+
+.FUH{
+    background-color: lightgreen;
+    opacity: 0.75;
+}
+
+
+.RECREO{
+    background-color: rgb(111, 56, 150);
+    opacity: 0.75;
+}
+
+.HORAS{
+    background-color: burlywood;
+    opacity: 0.75;
+}
