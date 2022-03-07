@@ -1,9 +1,0 @@
-
-#caja{
-	display: flex;
-	flex-direction: row;
-	flex-wrap: nowrap;
-	justify-content: space-evenly;
-	align-items: flex-end;
-	align-content: space-evenly;
-}
