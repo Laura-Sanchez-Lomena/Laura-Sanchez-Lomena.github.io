@@ -1,0 +1,44 @@
+p{ 
+    color:#505050;
+    font-family: Calibri; 
+    font-size: 16px; 
+    margin-left: 75px;
+    text-align: justify;    
+}
+
+.encabezado{
+    color: #bd8100;
+    font-family: Baskerville;
+    border-top: 2px solid #86a100;
+    margin-top: 7px;
+    padding-left: 75px;
+}
+
+.note{
+    color: #333;
+    border: 2px dashed #BD8110;
+    background-color: #FBF8A9;
+    margin-top: 25px;
+    margin-bottom: 35px;
+    padding: 20px;
+}
+
+p strong{
+    color: #FC6512;
+}
+
+body{
+    background:#FDF8AB url(./imagenes/fondo.png) repeat-y fixed center;
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 760px;
+    
+}
+#banner{
+    margin-top: 15px;
+    height: 200px;
+    width: 760px;
+}
